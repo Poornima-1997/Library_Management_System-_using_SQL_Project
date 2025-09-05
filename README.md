@@ -7,3 +7,4 @@ Database: library_db
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
 
 ![image alt](![Uploading ChatGPT Image Sep 6, 2025, 01_20_39 AM.png…])
+
